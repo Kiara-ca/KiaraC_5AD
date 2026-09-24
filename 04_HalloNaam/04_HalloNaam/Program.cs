@@ -28,7 +28,7 @@ namespace _04_HalloNaam
 
             // Stap 2: Maak de juiste tekst
             //_bewerking = "Hallo" + _naamGebruiker (kan ook)
-            _bewerking = $"Hallo {_naamGebruiker}";
+            _bewerking = $"Hallo {_naamGebruiker} \nMijn naam is Kiara en ik ben de programmeur.";
 
            
             //Scherm wissen
